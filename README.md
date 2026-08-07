@@ -34,7 +34,7 @@ Transformando dados em informações com Python, SQL e Power BI.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,matplotlib,github,vscode"/>
 
 </p>
 
