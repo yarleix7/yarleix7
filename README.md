@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-Transformando dados em informações com Python, SQL e Power BI.
+Transformando dados em decisôes estratégicas
 </p>
 
 ---
