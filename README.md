@@ -1,17 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="LINK_DO_BANNER" width="100%">
+</p>
+
+<h1 align="center">
+Olá, eu sou Yarlei Cavalcante 👋
+</h1>
 
 <p align="center">
-  <img src="https://github.com/yarleix7/yarleix7/blob/de410f3aeda9d3bf58cabafa11015754cb82c9a6/ChatGPT%20Image%207%20de%20ago.%20de%202026%2C%2014_46_48.png" width="100%" />
+📊 Estudante de Análise de Dados
 </p>
-# Olá, eu sou Yarlei Cavalcante 👋
 
-### 📊 Estudante de Análise de Dados
-
-Transformando dados em informações estratégicas.
-
-</div>
-
----
+<p align="center">
+Transformando dados em decisões estratégicas.
+</p>
 
 ## 👨‍💻 Sobre mim
 
