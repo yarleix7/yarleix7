@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/yarleix7/yarleix7/blob/d5f676f290e453626379b9ce48dd59176de69846/ChatGPT%20Image%207%20de%20ago.%20de%202026%2C%2014_46_48.png" width="100%">
-
+<p align="center">
+  <img src="LINK_DO_BANNER" width="100%" />
+</p>
 # Olá, eu sou Yarlei Cavalcante 👋
 
 ### 📊 Estudante de Análise de Dados
