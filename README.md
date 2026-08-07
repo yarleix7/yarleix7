@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="LINK_DO_BANNER" width="100%" />
+  <img src="https://github.com/yarleix7/yarleix7/blob/de410f3aeda9d3bf58cabafa11015754cb82c9a6/ChatGPT%20Image%207%20de%20ago.%20de%202026%2C%2014_46_48.png" width="100%" />
 </p>
 # Olá, eu sou Yarlei Cavalcante 👋
 
