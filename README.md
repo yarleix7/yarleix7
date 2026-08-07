@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yarleix7/yarleix7/blob/c6e2e5c62ddd6262170be55ec529f6d465952cc9/ChatGPT%20Image%207%20de%20ago.%20de%202026%2C%2014_46_48.png" width="100%">
+  <img src="https://github.com/yarleix7/yarleix7/blob/d83551d6777f79707fd0e61b7326bdb35ef910ed/ChatGPT%20Image%207%20de%20ago.%20de%202026%2C%2015_45_45.png" width="100%">
 </p>
 
 <h1 align="center">
