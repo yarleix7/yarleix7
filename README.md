@@ -1,12 +1,16 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 
-# Olá! Eu sou Yarlei Cavalcante 👋
+<h1 align="center">Olá, eu sou Yarlei Cavalcante 👋</h1>
 
-### 📊 Estudante de Análise de Dados
+<h3 align="center">
+📊 Estudante de Análise de Dados
+</h3>
 
+<p align="center">
 Transformando dados em informações com Python, SQL e Power BI.
-
-</div>
+</p>
 
 ---
 
@@ -14,61 +18,67 @@ Transformando dados em informações com Python, SQL e Power BI.
 
 🎓 Estudante de Análise de Dados
 
-📚 Atualmente estudando Python para Análise de Dados, SQL e Power BI.
+📚 Atualmente estudando:
 
-📈 Sempre buscando desenvolver projetos para aprimorar minhas habilidades.
+- Python
+- SQL
+- Power BI
+- Pandas
+- Excel
 
 🎯 Em busca da minha primeira oportunidade na área de Dados.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
-</div>
+</p>
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yarleix7&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarleix7&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 🔥 Sequência de contribuições
+## 🔥 Contribuições
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=yarleix7&theme=github-dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 📂 Projeto em destaque
+## 📂 Projeto em Destaque
 
 📊 **Análise de Vendas de Supermercado**
 
@@ -78,8 +88,5 @@ Projeto desenvolvido utilizando Python, Pandas e Matplotlib para análise explor
 
 ## 📫 Contato
 
-💼 LinkedIn: www.linkedin.com/in/yarlei-cavalcante
-
-📊 Kaggle: https://www.kaggle.com/yarleicavalcante
-
-</div>
+- 💼 LinkedIn: www.linkedin.com/in/yarlei-cavalcante
+- 📊 Kaggle: https://www.kaggle.com/yarleicavalcante
