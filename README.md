@@ -2,8 +2,6 @@
 
 <img src="https://github.com/yarleix7/yarleix7/blob/d5f676f290e453626379b9ce48dd59176de69846/ChatGPT%20Image%207%20de%20ago.%20de%202026%2C%2014_46_48.png" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Estudante+de+Análise+de+Dados;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+decisões." />
-
 # Olá, eu sou Yarlei Cavalcante 👋
 
 ### 📊 Estudante de Análise de Dados
