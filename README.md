@@ -17,7 +17,7 @@ Transformando dados em informações estratégicas.
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Análise de Dados
-- 📚 Atualmente estudando Python, SQL, Power BI, Pandas e Excel.
+- 📚 Atualmente estudando Python, Matplotlib, Seaborn, Pandas e Excel.
 - 🎯 Em busca da minha primeira oportunidade na área de Dados.
 
 ---
