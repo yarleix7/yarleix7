@@ -1,60 +1,58 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">Olá, eu sou Yarlei Cavalcante 👋</h1>
+<img src="SEU_BANNER_AQUI" width="100%">
 
-<h3 align="center">
-📊 Estudante de Análise de Dados
-</h3>
+# Olá, eu sou Yarlei Cavalcante 👋
 
-<p align="center">
-Transformando dados em decisôes estratégicas
-</p>
+**📊 Estudante de Análise de Dados**
+
+Transformando dados em decisões estratégicas.
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de Análise de Dados
-
-📚 Atualmente estudando:
-
-- Python
-- SQL
-- Power BI
-- Pandas
-- Excel
-
-🎯 Em busca da minha primeira oportunidade na área de Dados.
+- 🎓 Estudante de Análise de Dados
+- 📚 Atualmente estudando Python, SQL, Power BI, Pandas e Excel.
+- 🎯 Em busca da minha primeira oportunidade na área de Dados.
 
 ---
 
-## 🚀 Tech Stack
-
-
+## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="42"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" title="Power BI"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github&theme=light" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
+
 </p>
 
+---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yarleix7&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarleix7&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yarleix7&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarleix7&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
+
+---
 
 ## 🔥 Contribuições
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=yarleix7&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=yarleix7&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -62,7 +60,7 @@ Transformando dados em decisôes estratégicas
 
 ## 📂 Projeto em Destaque
 
-📊 **Análise de Vendas de Supermercado**
+### 📊 Análise de Vendas de Supermercado
 
 Projeto desenvolvido utilizando Python, Pandas e Matplotlib para análise exploratória de dados.
 
@@ -70,5 +68,5 @@ Projeto desenvolvido utilizando Python, Pandas e Matplotlib para análise explor
 
 ## 📫 Contato
 
-- 💼 LinkedIn: www.linkedin.com/in/yarlei-cavalcante
-- 📊 Kaggle: https://www.kaggle.com/yarleicavalcante
+- 💼 LinkedIn: https://linkedin.com/in/yarlei-cavalcante
+- 📊 Kaggle: https://kaggle.com/yarleicavalcante
