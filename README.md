@@ -26,8 +26,6 @@ Transformando dados em decisões estratégicas.
 
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
 <img src="https://skillicons.dev/icons?i=github&theme=light" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
