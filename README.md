@@ -37,11 +37,11 @@ Transformando dados em decisões estratégicas.
 ## 📊 Estatísticas
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yarleix7&theme=github_dark" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yarleix7&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarleix7&layout=compact&theme=transparent&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yarleix7&theme=github_dark" />
 </p>
 
 ---
