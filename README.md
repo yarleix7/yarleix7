@@ -34,9 +34,8 @@ Transformando dados em informações com Python, SQL e Power BI.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,github,vscode"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" width="45" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="45" />
+<img src="https://skillicons.dev/icons?i=python,github,vscode"/> , <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="45" />
+
 
 </p>
 
