@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/yarleix7/yarleix7/blob/d83551d6777f79707fd0e61b7326bdb35ef910ed/ChatGPT%20Image%207%20de%20ago.%20de%202026%2C%2015_45_45.png" width="100%">
-</p>
+
 
 <h1 align="center">
 Olá, eu sou Yarlei Cavalcante 👋
