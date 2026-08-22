@@ -1,21 +1,21 @@
 
 
 <h1 align="center">
-Olá, eu sou Yarlei Cavalcante 👋
+  Olá, eu sou Yarlei Cavalcante 👋
 </h1>
 
 <p align="center">
-📊 Estudante de Análise de Dados
+📊  Atualmente estou me Desenvolvendo Na Análise de Dados
 </p>
 
 <p align="center">
-Transformando dados em decisões estratégicas.
+Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 </p>
 
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Análise de Dados
-- 📚 Atualmente estudando Python, Matplotlib, Seaborn, Pandas e Excel.
+- 📚 Atualmente Estou Estudando e Aprofundando meus conhecimentos em Ferramentas de Analise de Dados como |Python| |Pandas| |Power BI| |Seaborn| |Excel| e em Inteligênca de Négocio.
 - 🎯 Em busca da minha primeira oportunidade na área de Dados.
 
 ---
