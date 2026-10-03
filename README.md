@@ -64,7 +64,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 Projeto desenvolvido utilizando Python, Pandas e Matplotlib para análise exploratória de dados.
 
 ---
-### Análise do ENEM-2021
+### 📊 Análise do ENEM-2021
 Neste projeto, utilizei os Microdados do ENEM 2021 para analisar o desempenho dos participantes em Matemática e Redação, explorando as diferenças entre os estados brasileiros e entre estudantes de escolas públicas e privadas.
 
 
