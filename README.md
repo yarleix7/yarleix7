@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-📊  Atualmente estou me Desenvolvendo Na Análise de Dados
+📊  Atualmente desenvolvo Projetos de Análise de Dados
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Análise de Dados
-- 📚 Atualmente Estou Estudando e Aprofundando meus conhecimentos em Ferramentas de Analise de Dados como Python, Pandas, Power BI, Seaborn, Excel e na Inteligência de Négocio.
+- 🎓 Análise de Dados
+- 📚 Atualmente Estou Estudando e Aprofundando meus conhecimentos em Capacidade Análitica e Ferramentas de Analise de Dados como Python, Pandas, Power BI, Seaborn, Excel e na Inteligência de Négocio.
   
 - 🎯 Em busca da minha primeira oportunidade na área de Dados.
 
