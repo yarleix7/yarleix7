@@ -18,10 +18,10 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
             title="Vizualizações no Linkedin" 
             src=https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin%20-blue?style=for-the-badge&logo=workflow&logoColor=white        />
     </a> 
-    <a href="https://github.com/yarleix7?tab=repositories&sort=stargazers">
+    <a href="https://www.kaggle.com/yarleicavalcante"
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Kaggle" 
+            title="Meu Perfil do Kaggle" 
             src="https://custom-icon-badges.demolab.com/github/stars/yarleix7?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
