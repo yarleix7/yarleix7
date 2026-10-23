@@ -9,7 +9,9 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 📚 Aprofundando meus conhecimentos em Capacidade Análitica e Ferramentas de Analise de Dados como Python, Pandas, Power BI, Seaborn, Excel e na Inteligência de Négocio.
 
 🎯 Atualmente Estou Buscando minha primeira oportunidade na área de Dados.
-    </a>
+
+
+ </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
