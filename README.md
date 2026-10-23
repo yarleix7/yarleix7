@@ -1,6 +1,6 @@
 # 👨‍💻 Yarlei Cavalcante
 
-**`Análista de Dados`**
+**`Analista de Dados`**
 
 Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 
