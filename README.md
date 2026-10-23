@@ -16,8 +16,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
         <img 
             alt="Linkedin views" 
             title="Vizualizações no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/linkedi/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
+            src=https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin%20-blue?style=for-the-badge&logo=workflow&logoColor=white        />
     </a> 
     <a href="https://github.com/yarleix7?tab=repositories&sort=stargazers">
         <img 
