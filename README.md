@@ -22,8 +22,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
         <img 
             alt="Kaggle" 
             title="Meu Perfil do Kaggle" 
-            src="https://custom-icon-badges.demolab.com/github/stars/yarleix7?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+            src=https://custom-icon-badges.demolab.com/badge/-Kaggle%20-gold?style=for-the-badge&logo=package&logoColor=black        />
     </a>
     <a href="https://github.com/yarleix7?tab=followers">
         <img 
