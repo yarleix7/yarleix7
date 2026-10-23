@@ -12,11 +12,11 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 
 
  </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.kaggle.com/yarleicavalcante">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Linkedin views" 
+            title="Vizualizações no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/linkedi/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/yarleix7?tab=repositories&sort=stargazers">
