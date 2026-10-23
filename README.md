@@ -17,7 +17,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 - 🎓 Análise de Dados
 - 📚 Atualmente Estou Estudando e Aprofundando meus conhecimentos em Capacidade Análitica e Ferramentas de Analise de Dados como Python, Pandas, Power BI, Seaborn, Excel e na Inteligência de Négocio.
   
-- 🎯 Em busca da minha primeira oportunidade na área de Dados.
+- 🎯 Atualmente Estou Buscando minha primeira oportunidade na área de Dados.
 
 ---
 
