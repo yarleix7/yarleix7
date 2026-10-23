@@ -18,7 +18,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
             title="Vizualizações no Linkedin" 
             src=https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin%20-blue?style=for-the-badge&logo=workflow&logoColor=white        />
     </a> 
-    <a href="https://www.kaggle.com/yarleicavalcante"
+    <a href="https://www.kaggle.com/yarleicavalcante">
         <img 
             alt="Kaggle" 
             title="Meu Perfil do Kaggle" 
