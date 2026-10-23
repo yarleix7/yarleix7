@@ -12,7 +12,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 
 
  </a>
-    <a href="https://www.kaggle.com/yarleicavalcante">
+    <a href="https://www.linkedin.com/in/yarlei-cavalcante/">
         <img 
             alt="Linkedin views" 
             title="Vizualizações no Linkedin" 
