@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-📊  Atualmente desenvolvo Projetos de Análise de Dados
+📊 Potfólio de Análise de Dados
 </p>
 
 <p align="center">
