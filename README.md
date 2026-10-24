@@ -92,7 +92,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=yarleix7&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
   />
-
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
