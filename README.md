@@ -99,8 +99,8 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarleix7&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-[![analise-enem-2021](https://github-readme-stats.vercel.app/api/pin/?username=yarleix7&repo=analise-enem-2021&theme=neon)](https://github.com/yarleix7/analise-enem-2021)
+[![analise-enem-2021](https://github-readme-stats.vercel.app/api/pin/?username=yarleix7&repo=analise-enem-2021&theme=holi)](https://github.com/yarleix7/analise-enem-2021)
 
-[![analise-vendas-supermercado](https://github-readme-stats.vercel.app/api/pin/?username=yarleix7&repo=analise-vendas-supermercado&theme=neon)](https://github.com/yarleix7/analise-vendas-supermercado)
+[![analise-vendas-supermercado](https://github-readme-stats.vercel.app/api/pin/?username=yarleix7&repo=analise-vendas-supermercado&theme=holi)](https://github.com/yarleix7/analise-vendas-supermercado)
 
 </p>
