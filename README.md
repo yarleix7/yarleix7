@@ -4,11 +4,11 @@
 
 Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 
-👨‍💻 Sobre mim
+
 
 📚 Aprofundando meus conhecimentos em Capacidade Análitica e Ferramentas de Analise de Dados como Python, Pandas, Power BI, Seaborn, Excel e na Inteligência de Négocio.
 
-🎯 Atualmente Estou Buscando minha primeira oportunidade na área de Dados.
+🎯 Atualmente Estou Buscando oportunidades na área de Dados como Cargos de Júnior & Estágios.
 
 
  </a>
@@ -85,17 +85,17 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=yarleix7&show_icons=true&theme=holi&hide=issues,contribs,include_all_commits=true&locale=pt-br" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-stats-extended.vercel.app/api?username=yarleix7&show_icons=true&theme=holi&hide=issues,contribs&include_all_commits=true&locale=pt-br"
   />
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarleix7&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9" 
+
+  <img
+    align="left"
+    alt="Tecnologias"
+    height="200"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yarleix7&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
+</p>
