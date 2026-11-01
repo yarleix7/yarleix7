@@ -41,7 +41,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
     align="left" 
     alt="Python"
     title="Python" 
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -49,7 +49,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
     align="left" 
     alt="pandas" 
     title="pandas"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
@@ -57,7 +57,7 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
     align="left" 
     alt="jupyter" 
     title="jupyter"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
@@ -65,19 +65,12 @@ Resolvendo Problemas e Propondo Soluções Atráves de Dados.
     align="left" 
     alt="matplotlib"
     title="matplotlib" 
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
 />
-<img 
-    align="left" 
-    alt="github"
-    title="github" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
 
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 <br/>
 <br/>
